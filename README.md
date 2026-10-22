@@ -26,3 +26,10 @@ The key problems identified are:
 - Accessibility for patients using basic mobile phones
 - System reliability during internet connectivity and power interruptions
   
+[MediTrack Nigeria BRD](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20Nigeria%20BRD.pdf)
+
+ PROCESS OVERVIEW
+ The process Mapping of MediTrack current 
+ Current State
+Patients → Hospital Arrival → Registration/Appointment Queue →Manual File Retrieval → Doctor Consultation  →Manual Lab/Pharmacy Billing →Manual Cashier Payment →Patients
+[Current State]()
