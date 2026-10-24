@@ -25,29 +25,72 @@ The key problems identified are:
 
 # Business Case
 The Business case consist of the financial summary for 3 years of Cost-Benefit Analysis, Social Return on Investment (SROI) and Risk Register.
-Deliverable: [View the Business Case]()
+
+Deliverable: [MediTrack-Nigeria-Business-Case.pdf](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Edubrige%20Business%20case.pdf)
   # Business Requirements Document (BRD)
 
 The BRD documents consists business needs, project scope, stakeholder requirements, and proposed system capabilities.
 
-[View the MediTrack Nigeria BRD](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20Nigeria%20BRD.pdf)
+Deliverable:[ MediTrack Nigeria BRD](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20Nigeria%20BRD.pdf)
 
  # PROCESS OVERVIEW
 
- 
  **Current State (AS-IS)**
 
  The current-state process illustrates a typical manual patient journey, highlighting opportunities to improve registration, record retrieval, departmental coordination, and payment processing.
+
+ **Process Flow**
  
 Patients → Hospital Arrival → Registration/Appointment Queue →Manual File Retrieval → Doctor Consultation  →Manual Lab/Pharmacy Billing →Manual Cashier Payment →Patients
 
-[View the Current-State Process Map](https://miro.com/app/board/uXjVHiil0-c=/)
+[Current-State Process Map](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Current%20State.png)
 
 **Future State (TO-BE)**
 
 The proposed future-state process illustrates how MediTrack Nigeria could support appointment booking, patient check-in, queue management, digital records, referrals, and payment tracking.
 
+**Process Flow**
+
 USSD/Web Appointment Booking → SMS Confirmation or Reminder → Hospital Check-in → Electronic Queue Management → Doctor Consultation and Digital Record Access → Departmental Referral → Digital Billing and Payment Recording → SMS Receipt Confirmation → Completion of Visit
 
-[View the Future-State Process Map](https://miro.com/app/board/uXjVHiil0-c=/)
+[Future-State Process Map](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Future%20State.png)
+
+# Dataset
+The MediTrack Nigeria project uses a structured 12-month dataset to analyse key hospital operational and financial performance indicators.
+
+Dataset Overview
+
+The dataset contains 12 monthly records and the following fields:
+
+Field
+
+Description
+
+Months
+
+Reporting period, from Month 1 to Month 12
+
+Avg Wait (min)
+
+Average patient waiting time in minutes
+
+Patients/Doctor/Day
+
+Average number of patients attended to per doctor daily
+
+Revenue Recovered (₦M)
+
+Revenue recovery recorded in millions of Nigerian naira
+
+Success Rate (%)
+
+Percentage of successful transactions
+
+Satisfaction (/5)
+
+# Dashboard 
+The MediTrack Nigeria KPI Performance Dashboard presents a 12-month view of proposed hospital operational and financial performance indicators. Developed in Power BI, the dashboard is designed to help hospital management monitor trends, identify areas for improvement, and support evidence-based decision-making.
+[](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20project.pbix)
+
+  
 
