@@ -6,28 +6,29 @@ MediTrack Nigeria is a proposed digital patient management system for Nigerian p
 # Problem Statement
 Public hospitals in Nigeria face operational challenges that can affect patient experience and the quality of service delivery. In some hospital settings, patients arrive early in the morning and spend several hours waiting to see a doctor. Reliance on paper-based records, manual processes, and verbal communication can make it difficult to manage patient flow, coordinate hospital departments, and monitor daily operations effectively.
 The key problems identified are:
- - No appointment Booking system
+- No appointment Booking system
 - Paper records are lost constantly
--  No inter-departmental visibility
- - Revenue leakage from cash payments
+- No inter-departmental visibility
+- Revenue leakage from cash payments
 - Management has no real-time data
 
   # Project Objective
   The main objective of MediTrack Nigeria is to improve patient management and operational efficiency in Nigerian public hospitals through a proposed digital patient management system.
   The project aims to help hospital management identify opportunities to improve:
 - Patient waiting times and queue management
-- Appointment booking through USSD and web channels
+- Appointment booking through USSD and web channels using basic mobile phones
 - Patient record accessibility and retrieval
 - Coordination and referrals across hospital departments
 - Payment tracking and financial accountability
-- Patient flow and departmental workload management
 - Real-time operational monitoring and reporting
-- Accessibility for patients using basic mobile phones
 - System reliability during internet connectivity and power interruptions
 
+# Business Case
+The Business case consist of the financial summary for 3 years of Cost-Benefit Analysis, Social Return on Investment (SROI) and Risk Register.
+Deliverable: [View the Business Case]()
   # Business Requirements Document (BRD)
 
-The BRD documents the business needs, project scope, stakeholder requirements, and proposed system capabilities.
+The BRD documents consists business needs, project scope, stakeholder requirements, and proposed system capabilities.
 
 [View the MediTrack Nigeria BRD](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20Nigeria%20BRD.pdf)
 
