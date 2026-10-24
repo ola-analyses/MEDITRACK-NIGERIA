@@ -43,7 +43,7 @@ Deliverable:[ MediTrack Nigeria BRD](https://github.com/ola-analyses/MEDITRACK-N
  
 Patients → Hospital Arrival → Registration/Appointment Queue →Manual File Retrieval → Doctor Consultation  →Manual Lab/Pharmacy Billing →Manual Cashier Payment →Patients
 
-[Current-State Process Map](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Current%20State.png)
+![Current-State Process Map](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Current%20State.png)
 
 **Future State (TO-BE)**
 
@@ -53,7 +53,7 @@ The proposed future-state process illustrates how MediTrack Nigeria could suppor
 
 USSD/Web Appointment Booking → SMS Confirmation or Reminder → Hospital Check-in → Electronic Queue Management → Doctor Consultation and Digital Record Access → Departmental Referral → Digital Billing and Payment Recording → SMS Receipt Confirmation → Completion of Visit
 
-[Future-State Process Map](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Future%20State.png)
+![Future-State Process Map](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/Future%20State.png)
 
 # Dataset
 The MediTrack Nigeria project uses a structured 12-month dataset to analyse key hospital operational and financial performance indicators.
@@ -61,36 +61,19 @@ The MediTrack Nigeria project uses a structured 12-month dataset to analyse key 
 Dataset Overview
 
 The dataset contains 12 monthly records and the following fields:
-
-Field
-
-Description
-
-Months
-
-Reporting period, from Month 1 to Month 12
-
-Avg Wait (min)
-
-Average patient waiting time in minutes
-
-Patients/Doctor/Day
-
-Average number of patients attended to per doctor daily
-
-Revenue Recovered (₦M)
-
-Revenue recovery recorded in millions of Nigerian naira
-
-Success Rate (%)
-
-Percentage of successful transactions
-
-Satisfaction (/5)
+| Field | Description |
+|---|---|
+| Months | Reporting period, from Month 1 to Month 12 |
+| Avg Wait (min) | Average patient waiting time in minutes |
+| Patients/Doctor/Day | Average number of patients attended to per doctor daily |
+| Revenue Recovered (₦M) | Revenue recovered in millions of Nigerian naira |
+| Success Rate (%) | Percentage of successful transactions |
+| Satisfaction (/5) | Patient satisfaction score on a five-point scale |
 
 # Dashboard 
 The MediTrack Nigeria KPI Performance Dashboard presents a 12-month view of proposed hospital operational and financial performance indicators. Developed in Power BI, the dashboard is designed to help hospital management monitor trends, identify areas for improvement, and support evidence-based decision-making.
-[](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20project.pbix)
+
+![Dashboard](https://github.com/ola-analyses/MEDITRACK-NIGERIA/blob/main/MediTrack%20project.pbix)
 
   
 
